@@ -1,2 +1,2 @@
 # heart-disease-project
-Tis is first project of mine use to detect weather a patient has heart disease or not. Built with help of jupyter notebook and logistic regressioin model.
+I've developed a logistic regression model in Jupyter Notebook to predict whether a patient has heart disease or not, as part of my first project.
