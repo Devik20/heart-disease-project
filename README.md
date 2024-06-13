@@ -1,2 +1,2 @@
 # heart-disease-project
-I've developed a logistic regression model in Jupyter Notebook to predict whether a patient has heart disease or not, as part of my first project.
+Ram Ram everyone, I'm excited to share my inaugural project, where I've successfully developed a logistic regression model in Jupyter Notebook to accurately predict the likelihood of heart disease in patients, paving the way for early detection and prevention.
